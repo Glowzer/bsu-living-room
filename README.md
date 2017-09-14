@@ -1,2 +1,2 @@
-# bsu-living-room
-RS University BSU Home
+# RS University BSU Home
+[Slack](https://join.slack.com/t/rsuniversitybsu/shared_invite/MjQwMDY0NDU3MzE2LTE1MDUyMzk4OTktZjRjZjcxMmZjOQ) | [Schedule](https://docs.google.com/spreadsheets/d/17jxVa2CexOJudnXuKFBhuwKnY1OCUWooxsZrloyNKxc/edit?usp=sharing) | [Course Feedback](https://docs.google.com/forms/d/e/1FAIpQLScoMsa9x8Xw_a-ja392Vx6WK8EAyaRgT2dyFTim6ORGyyU6pw/viewform?usp=sf_link) | [Trainers/Mentors Feedback](https://docs.google.com/forms/d/e/1FAIpQLScgEiOYuuhHa0dDp46Y4EgnaTUNzmUIUxU1VMX-Bdwbw2ojFA/viewform?usp=sf_link)
